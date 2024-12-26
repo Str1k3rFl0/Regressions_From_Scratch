@@ -1,6 +1,6 @@
 # Simple and Multiple Linear Regression
 
-This repository contains two examples of linear regression implemented in Python using the `numpy`, `pandas`, and `matplotlib` libraries. The examples demonstrate both **simple linear regression** and **multiple linear regression**.
+This repository contains two examples of linear regression from scratch implemented in Python using the `numpy`, `pandas`, and `matplotlib` libraries. The examples demonstrate both **simple linear regression** and **multiple linear regression**.
 
 ## Requirements
 
